@@ -2,25 +2,24 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name='viewport' content="width=device-width", initial-scale="1.0">
+    <meta name='viewport' content="width=device-width", initial-scale=1.0">
     <title>MMP 240 Assignments</title>
     <link href="css/style.css" media="screen">
     </head>
 
     <body>
     <h1>MMP 240 Assignments </h1>
-    <img src="images/pexels-nguiyendesigner-16075339.jpg" alt="my favorite">
+    <img src="images/pexels-nguiyendesigner-16075339.jpg alt="my favorite">
 
     <p> My name is Rabbi Awuah i am muitimedia and art technolgy and This is my last Semester at Bmcc. Also i am a muscian i play both instrur"ments i have interest in photography </p>
     
         <p>email:<a href="mailto:youremail">rabbiawuah652@gmail.com</a><p>
 
-<h2>Assignments</2>
+<h2>Favorite Fruit</2>
 <ol>
-  <li><a href="index.html">About me </a></li>
-   <li><a href="recipes.html">Recipes</a></li>
-   <li><a href="Resumes.html">Resume</a></li>
-
+   <li>Apples</li>
+   <li>watermelon</li>
+   <li>orange</li>
 </ol>
 
 
